@@ -1,0 +1,21 @@
+body {
+	background-color: #34dbeb
+}
+
+.w3-card-4 {
+	background-color: white;
+	display: block;
+	width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px
+}
+
+.product_img {
+	width: 80%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
